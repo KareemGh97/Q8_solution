@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository to your local machine:
 
-git clone <repository-url>
+git clone <(https://github.com/KareemGh97/Q8_solution.git)>
 
 
 2. Navigate to the project directory:
