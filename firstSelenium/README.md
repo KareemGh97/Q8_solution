@@ -33,7 +33,7 @@ mvn clean install
 
 To run the automated tests, execute the following command:
 
-mvn test
+mvn clean test
 
 
 This command will execute all the test cases defined in the `WeBookAutomation` class.
