@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-11T09:50:09 AST" name="Command line suite" finished-at="2024-06-11T09:50:17 AST" duration-ms="8075">
+    <groups>
+    </groups>
+    <test started-at="2024-06-11T09:50:09 AST" name="Command line test" finished-at="2024-06-11T09:50:17 AST" duration-ms="8075">
+      <class name="CheckOutTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:CheckOutTest@4df828d7]" started-at="2024-06-11T09:50:09 AST" name="setUp" finished-at="2024-06-11T09:50:13 AST" duration-ms="3791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkOutProcces()[pri:0, instance:CheckOutTest@4df828d7]" started-at="2024-06-11T09:50:13 AST" name="checkOutProcces" finished-at="2024-06-11T09:50:13 AST" duration-ms="624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkOutProcces -->
+      </class> <!-- CheckOutTest -->
+      <class name="LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginTest@1176dcec]" started-at="2024-06-11T09:50:13 AST" name="setUp" finished-at="2024-06-11T09:50:17 AST" duration-ms="3372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="login()[pri:0, instance:LoginTest@1176dcec]" started-at="2024-06-11T09:50:17 AST" name="login" finished-at="2024-06-11T09:50:17 AST" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
